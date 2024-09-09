@@ -1,0 +1,72 @@
+[
+  {
+    "activity": "Take a virtual museum tour",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Write a short story",
+    "type": "education",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.0
+  },
+  {
+    "activity": "Learn a new recipe",
+    "type": "cooking",
+    "participants": 1,
+    "price": 0.3,
+    "accessibility": 0.5
+  },
+  {
+    "activity": "Start a book you've been meaning to read",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Play a board game with your family",
+    "type": "social",
+    "participants": 4,
+    "price": 0.1,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Go for a bike ride",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Learn how to juggle",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Create a personal website",
+    "type": "education",
+    "participants": 1,
+    "price": 0.2,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Host a virtual trivia night",
+    "type": "social",
+    "participants": 4,
+    "price": 0.0,
+    "accessibility": 0.0
+  },
+  {
+    "activity": "Go for a walk",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  }
+]
