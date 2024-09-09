@@ -68,5 +68,335 @@
     "participants": 1,
     "price": 0.0,
     "accessibility": 0.1
+  },
+  {
+    "activity": "Learn a new programming language",
+    "type": "education",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Do a jigsaw puzzle",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Write a poem",
+    "type": "education",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Try a new coffee shop",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Go stargazing",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Volunteer at a local shelter",
+    "type": "charity",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Read a book",
+    "type": "education",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Meditate for 10 minutes",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.0
+  },
+  {
+    "activity": "Try origami",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Clean your room",
+    "type": "busywork",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.0
+  },
+  {
+    "activity": "Cook a new dish",
+    "type": "cooking",
+    "participants": 1,
+    "price": 0.2,
+    "accessibility": 0.4
+  },
+  {
+    "activity": "Listen to a new podcast",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Play a card game",
+    "type": "social",
+    "participants": 2,
+    "price": 0.0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Do yoga",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.0
+  },
+  {
+    "activity": "Watch a documentary",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Call an old friend",
+    "type": "social",
+    "participants": 2,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Write a letter to a family member",
+    "type": "social",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Organize your closet",
+    "type": "busywork",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.0
+  },
+  {
+    "activity": "Plan your next vacation",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Go for a run",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Host a movie night",
+    "type": "social",
+    "participants": 3,
+    "price": 0.2,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Write a blog post",
+    "type": "education",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Make a playlist",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Learn to knit",
+    "type": "education",
+    "participants": 1,
+    "price": 0.3,
+    "accessibility": 0.5
+  },
+  {
+    "activity": "Take a photography walk",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Paint a picture",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Watch a live stream",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Try a new sport",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.2,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Take an online course",
+    "type": "education",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Research a historical event",
+    "type": "education",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Bake cookies",
+    "type": "cooking",
+    "participants": 1,
+    "price": 0.2,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Start a new hobby",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.2,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Have a picnic in the park",
+    "type": "recreational",
+    "participants": 2,
+    "price": 0.1,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Learn basic phrases in a new language",
+    "type": "education",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Try a new hairstyle",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Create a time capsule",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Go bird watching",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Plan a road trip",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.2,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Write a song",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Do a crossword puzzle",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Learn how to play a musical instrument",
+    "type": "education",
+    "participants": 1,
+    "price": 0.3,
+    "accessibility": 0.4
+  },
+  {
+    "activity": "Visit a local market",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Do some gardening",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.1,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Watch the sunrise",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.1
+  },
+  {
+    "activity": "Try a new workout routine",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.0,
+    "accessibility": 0.3
+  },
+  {
+    "activity": "Play an online game with friends",
+    "type": "social",
+    "participants": 2,
+    "price": 0.0,
+    "accessibility": 0.2
+  },
+  {
+    "activity": "Create a scrapbook",
+    "type": "recreational",
+    "participants": 1,
+    "price": 0.2,
+    "accessibility": 0.3
   }
+]
 ]
